@@ -1,0 +1,25 @@
+.footer {
+    background-image: linear-gradient(aquamarine, cyan);
+    padding: 0 0 20px;
+}
+.footer-message {
+    padding: 20px;
+}
+.footer-message input {
+    margin: 10px 0;
+    padding: 5px;
+    width: 270px;
+    border: 1px solid gray;
+    border-radius: 5px;
+}
+.footer-message button {
+    background-color: lime;
+    border: 1px solid green;
+    border-radius: 5px;
+    padding: 3px 10px;
+}
+.footer-payment-methods img {
+    width: 100px;
+    border-radius: 10px;
+    margin: 10px;
+}

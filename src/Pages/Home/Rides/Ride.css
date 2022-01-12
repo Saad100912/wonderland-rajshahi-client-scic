@@ -1,0 +1,8 @@
+.book-now-btn {
+    text-decoration: none;
+    color: black;
+    font-weight: 500;
+    background-image: linear-gradient(aquamarine, cyan);
+    padding: 8px 15px;
+    border-radius: 10px;
+}

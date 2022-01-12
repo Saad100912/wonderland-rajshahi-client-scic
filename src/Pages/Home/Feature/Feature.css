@@ -1,0 +1,6 @@
+.feature-container {
+    background-color: #702a6f;
+    /* background-image: linear-gradient(blue, navy); */
+    border-radius: 15px;
+    color: lightgray;
+}
